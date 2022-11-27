@@ -23,7 +23,7 @@ const config: types.ReactBricksConfig = {
   appSettingsPath: '/admin/app-settings',
   useCssInJs: false,
   appRootElement: '#__next',
-  clickToEditSide: types.ClickToEditSide.BottomRight,
+  // clickToEditSide: types.ClickToEditSide.BottomRight,
   customFields: [],
   //responsiveBreakpoints: [{ type: types.DeviceType.Phone, width: 480, label: 'Smartphone'}],
   enableAutoSave: true,
